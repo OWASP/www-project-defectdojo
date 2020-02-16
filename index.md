@@ -2,11 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Defectdojo
-tags: example-tag
-level: 0
+tags: appsec builders defenders breakers vulnerability-management
+level: 4
 type: tool
 
 ---
+
+
+[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/)
+[![DefectDojo Github Stars](https://img.shields.io/github/stars/DefectDojo/Django-DefectDojo?label=DefectDojo&style=social)](https://github.com/DefectDojo/django-DefectDojo)
 
 ## Overview
 

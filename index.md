@@ -5,7 +5,7 @@ title: OWASP Defectdojo
 tags: appsec builders defenders breakers vulnerability-management
 level: 4
 type: tool
-
+pitch: The leading open source application vulnerability management tool built for DevOps and continuous security integration.
 ---
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/)

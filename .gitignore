@@ -3,3 +3,4 @@ env
 .vscode
 Session.vim
 .undodir
+_site/

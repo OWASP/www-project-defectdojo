@@ -21,6 +21,6 @@ DefectDojo is an Application Security Program tool written in Python / Django. D
 
 DefectDojo streamlines the testing process through several 'models' that an admin can manipulate with Python code. The core models include: 'engagements', 'tests' and 'findings'. DefectDojo has supplemental models that facilitate metrics, authentication, report generation, and tools. DefectDojo is written in Python and Django.
 
-Testing or installing DefectDojo is easy. If you decide to setup an instance of Dojo for your organization, we have developed a script that handles all dependencies, configures the database, and creates a super user. Complete installation instructions are found [here](https://defectdojo.readthedocs.io/en/latest/getting-started.html). The projects documentation can be found on [Read The Docs](https://defectdojo.readthedocs.io/en/latest/).
+Testing or installing DefectDojo is easy. If you decide to setup an instance of Dojo for your organization, we have developed a script that handles all dependencies, configures the database, and creates a super user. Complete installation instructions are found [here](https://defectdojo.github.io/django-DefectDojo/getting_started/installation/). The projects documentation can be found on [Read The Docs](https://defectdojo.github.io/django-DefectDojo/).
 
 OWASP DefectDojo is licensed under the [BSD 3-Clause License](https://tldrlegal.com/license/bsd-3-clause-license-(revised))

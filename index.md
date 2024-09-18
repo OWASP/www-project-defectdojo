@@ -13,14 +13,18 @@ pitch: The leading open source application vulnerability management tool built f
 
 ## Overview
 
-An open source vulnerability management tool that streamlines the testing process by offering templating, report generation, metrics, and baseline self-service tools.
+DefectDojo is a single platform to orchestrate end-to-end security testing, vulnerability tracking, deduplication, remediation, and reporting. The project was started in 2013 and the open source version was released in 2015.
 
-DefectDojo is an Application Security Program tool written in Python / Django. DefectDojo was created in 2013 and open-sourced on March 13th, 2015. The project was started to make optimizing vulnerability tracking less painful. The top goal of DefectDojo is to reduce the amount of time security professionals spend logging vulnerabilities. DefectDojo accomplishes this by offering a templating system for vulnerabilities, imports for common vulnerability scanners, report generation, and metrics.
+Our open platform transforms security information management, connecting security strategy and informed execution for intelligent risk management. Security and DevSecOps teams can aggregate, automate, and integrate data from more than 200 security tools for a unified view of security posture and compliance, streamlined workflows, and improved decision-making.
+
+Automate the tools you currently use, combine findings, and apply templates for SLAs and mitigation—all tracked to the product or product groups you define. Track unique vulnerabilities across builds, releases, endpoints, repositories and engagements. DefectDojo algorithms learn overtime to automatically group findings and apply changes.
+
+DefectDojo was created by security pros for security pros to provide maximum results with minimum human intervention.
 
 ## Description
 
-DefectDojo streamlines the testing process through several 'models' that an admin can manipulate with Python code. The core models include: 'engagements', 'tests' and 'findings'. DefectDojo has supplemental models that facilitate metrics, authentication, report generation, and tools. DefectDojo is written in Python and Django.
+DefectDojo streamlines the testing process with a flexible data model that gives you the ability to iterate and drive immediate value. The data model has four core components: Product, Engagement, Tests, and Findings (Endpoints). Additionally, DefectDojo has supplemental models that facilitate metrics, authentication, report generation, and tools. DefectDojo is written in Python and Django.
 
-Testing or installing DefectDojo is easy. If you decide to setup an instance of Dojo for your organization, we have developed a script that handles all dependencies, configures the database, and creates a super user. Complete installation instructions are found [here](https://defectdojo.github.io/django-DefectDojo/getting_started/installation/). The projects documentation can be found on [Read The Docs](https://defectdojo.github.io/django-DefectDojo/).
+Testing or installing DefectDojo is easy and automated. When you’re ready  to set up an instance of Dojo for your organization, we have a script that handles all dependencies, configures the database, and creates a super user. Complete installation instructions are found [here](https://defectdojo.github.io/django-DefectDojo/getting_started/installation/). The project’s documentation can be found on the [documenation site](https://documentation.defectdojo.com/).
 
 OWASP DefectDojo is licensed under the [BSD 3-Clause License](https://tldrlegal.com/license/bsd-3-clause-license-(revised))

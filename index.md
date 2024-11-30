@@ -25,6 +25,6 @@ DefectDojo was created by security pros for security pros to provide maximum res
 
 DefectDojo streamlines the testing process with a flexible data model that gives you the ability to iterate and drive immediate value. The data model has four core components: Product, Engagement, Tests, and Findings (Endpoints). Additionally, DefectDojo has supplemental models that facilitate metrics, authentication, report generation, and tools. DefectDojo is written in Python and Django.
 
-Testing or installing DefectDojo is easy and automated. When you’re ready  to set up an instance of Dojo for your organization, we have a script that handles all dependencies, configures the database, and creates a super user. Complete installation instructions are found [here](https://defectdojo.github.io/django-DefectDojo/getting_started/installation/). The project’s documentation can be found on the [documenation site](https://documentation.defectdojo.com/).
+Testing or installing DefectDojo is easy and automated. When you’re ready  to set up an instance of Dojo for your organization, we have a script that handles all dependencies, configures the database, and creates a super user. Complete installation instructions are found [here](https://documentation.defectdojo.com/getting_started/installation/). The project’s documentation can be found on the [documentation site](https://documentation.defectdojo.com/).
 
 OWASP DefectDojo is licensed under the [BSD 3-Clause License](https://tldrlegal.com/license/bsd-3-clause-license-(revised))

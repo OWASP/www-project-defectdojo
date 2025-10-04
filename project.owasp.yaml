@@ -1,0 +1,110 @@
+audience:
+  - breaker
+  - builder
+community:
+  - name: defectdojo
+    platform: slack
+    url: https://owasp.slack.com/archives/C2P5BA8MN
+    description: DefectDojo Project Discussion
+  - name: defectdojo-dev
+    platform: slack
+    url: https://owasp.slack.com/archives/C014H3ZV9U6
+    description: DefectDojo development. This channel is for assistance with PRs to Defectdojo or dev questions. Please use <#C2P5BA8MN>  for general discussions.
+  - name: defectdojo-test
+    platform: slack
+    url: https://owasp.slack.com/archives/C6AV5TUAF
+  - name: defectdojo-uiv2
+    platform: slack
+    url: https://owasp.slack.com/archives/C01S34D42T1
+leaders:
+  - name: Aaron Weaver
+    email: aaron.weaver@owasp.org
+    github: aaronweaver
+  - name: Matt Tesauro
+    email: matt.tesauro@owasp.org
+    github: mtesauro
+  - name: Greg Anderson
+    email: greg.anderson@owasp.org
+    github: devGregA
+level: 4
+license:
+  - BSD-3-Clause
+  - GPL-3.0
+  - LGPL-3.0
+  - MIT
+name: OWASP Defectdojo
+pitch: The leading open source application vulnerability management tool built for DevOps and continuous security integration.
+repositories:
+  - name: www-project-defectdojo
+    url: https://github.com/OWASP/www-project-defectdojo
+    description: OWASP Foundation Web Repository
+  - name: 1password-teams-open-source
+    url: https://github.com/DefectDojo/1password-teams-open-source
+    description: Get a free 1Password Teams membership for your open source project
+  - name: Community-Contribs
+    url: https://github.com/DefectDojo/Community-Contribs
+    description: ' DefectDojo Community Content'
+  - name: cookiecutter-scanner-parser
+    url: https://github.com/DefectDojo/cookiecutter-scanner-parser
+    description: A scanner parser template generator for DefectDojo
+  - name: defectDojo-engagement-survey
+    url: https://github.com/DefectDojo/defectDojo-engagement-survey
+    description: Extends django-DefectDojo (https://github.com/rackerlabs/django-DefectDojo) by incorporating survey(s) associated with each engagement
+      to help develop a test strategy.
+  - name: defectdojo-java-client
+    url: https://github.com/DefectDojo/defectdojo-java-client
+  - name: defectdojo_api
+    url: https://github.com/DefectDojo/defectdojo_api
+    description: Python API library for DefectDojo
+  - name: django-auditlog
+    url: https://github.com/DefectDojo/django-auditlog
+    description: A Django app that keeps a log of changes made to an object.
+  - name: django-custom-field
+    url: https://github.com/DefectDojo/django-custom-field
+    description: End user defined custom fields for Django including contrib.admin support
+  - name: django-DefectDojo
+    url: https://github.com/DefectDojo/django-DefectDojo
+    description: Open-Source Unified Vulnerability Management, DevSecOps & ASPM
+  - name: django-init-settings
+    url: https://github.com/DefectDojo/django-init-settings
+    description: Init container for settings.py
+  - name: django-multiselectfield
+    url: https://github.com/DefectDojo/django-multiselectfield
+    description: A Multiple Choice model field
+  - name: django-tagging
+    url: https://github.com/DefectDojo/django-tagging
+    description: A generic tagging application for Django projects
+  - name: Documentation
+    url: https://github.com/DefectDojo/Documentation
+    description: DefectDojo Documentation
+  - name: Documentation-update
+    url: https://github.com/DefectDojo/Documentation-update
+    description: converting docs to github pages
+  - name: flake8-your-pr
+    url: https://github.com/DefectDojo/flake8-your-pr
+    description: Github action to flake8 lint your pull requests
+  - name: godojo
+    url: https://github.com/DefectDojo/godojo
+    description: Golang installer for DefectDojo
+  - name: heroku-DefectDojo
+    url: https://github.com/DefectDojo/heroku-DefectDojo
+    description: Deploy Artifacts for Heroku DefectDojo Test Environments
+  - name: sample-data
+    url: https://github.com/DefectDojo/sample-data
+    description: Sample data for DefectDojo
+  - name: ui-qa-experiment
+    url: https://github.com/DefectDojo/ui-qa-experiment
+    description: Experiments with UI QA test
+  - name: ui2-incubating
+    url: https://github.com/DefectDojo/ui2-incubating
+  - name: ZapCon-2022-demo
+    url: https://github.com/DefectDojo/ZapCon-2022-demo
+    description: 'Code used in the demo from the "Final Frontier: Automating DYNAMIC Security Testing"'
+tags:
+  - appsec
+  - builders
+  - defenders
+  - breakers
+  - vulnerability-management
+type: tool
+website: https://owasp.org/www-project-defectdojo
